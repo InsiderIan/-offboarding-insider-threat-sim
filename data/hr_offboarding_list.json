@@ -1,0 +1,29 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Alice Rivera",
+    "role": "Data Scientist",
+    "last_working_day": "2025-05-10",
+    "offboarding_reason": "Resignation - joining competitor",
+    "manager": "bob.chen@company.com",
+    "sensitive_projects": ["Recommendation Engine", "Ad Targeting"]
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Jamal Booker",
+    "role": "Product Manager",
+    "last_working_day": "2025-05-15",
+    "offboarding_reason": "Retirement",
+    "manager": "sarah.lee@company.com",
+    "sensitive_projects": ["Mobile App Strategy"]
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Dina Wu",
+    "role": "Senior Engineer",
+    "last_working_day": "2025-05-18",
+    "offboarding_reason": "Performance-based termination",
+    "manager": "kevin.james@company.com",
+    "sensitive_projects": ["Source Code Repository", "AI Model Tuning"]
+  }
+]
