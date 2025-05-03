@@ -34,9 +34,9 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
 
 
 ---
-```markdown
-## 📁 Folder Structure
 
+
+## 📁 Project Folder Structure
 
 /offboarding_sim/
 ├── data/
@@ -56,6 +56,7 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
 │   └── case_001_report.json
 ├── README.md
 └── requirements.txt
+
 
 ---
 
