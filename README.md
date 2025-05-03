@@ -32,10 +32,12 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
    - Close the case and output a full case report
    - Conduct a simulated post-incident review
 
+
 ---
 
 ## 📁 Folder Structure
 
+```plaintext
 /offboarding_sim/
 ├── data/
 │   ├── hr_offboarding_list.json
