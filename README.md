@@ -37,7 +37,7 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
 
 ## 📁 Folder Structure
 
-```plaintext
+
 /offboarding_sim/
 ├── data/
 │   ├── hr_offboarding_list.json
