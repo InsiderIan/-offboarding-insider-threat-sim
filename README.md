@@ -38,7 +38,7 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
 
 ## 📁 Project Folder Structure
 
-insider-threat-simulation/
+-offboarding-insider-threat-sim/
 ├── data/
 │   ├── hr_offboarding_list.json
 │   ├── alerts_generated.json
