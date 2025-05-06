@@ -38,25 +38,23 @@ The purpose is to reflect enterprise-grade workflows used in security teams, inc
 
 ## 📁 Project Folder Structure
 
-/offboarding_sim/
+insider-threat-simulation/
 ├── data/
 │   ├── hr_offboarding_list.json
 │   ├── alerts_generated.json
-│   └── sensitive_keywords.txt
+│   ├── sensitive_keywords.txt
+├── reports/
+│   └── case_001_report.json
 ├── scripts/
 │   ├── alert_generator.py
 │   ├── triage_engine.py
 │   ├── escalation_flow.py
-│   └── generate_report.py
+│   ├── generate_report.py
 ├── templates/
 │   ├── manager_email.txt
 │   ├── attestation_letter.txt
-│   └── investigation_report.md
-├── reports/
-│   └── case_001_report.json
-├── README.md
+│   ├── investigation_report.md
 └── requirements.txt
-
 
 ---
 
